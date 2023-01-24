@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a small Node application that can generate a readme file with the information you enter. It will also generate a license badge for the license you are using with your project. 
+This is a small Node application that can generate a readme file with the information you enter. It will also generate a license badge for the license you are using with your project. You can see an example of the readme created by viewing the example_readme.md file in the repo.
 
 GitHub Repo:
 

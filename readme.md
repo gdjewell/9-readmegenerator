@@ -20,7 +20,7 @@ To install this application clone this project from the GitHub repo. Then, you'l
 
 ## Usage
 
-I've created a demo video of how to use this readme generator that you can view here:
+I've created a demo video of how to use this readme generator. Click the image link below to view  the video:
 
 [![demo video](http://www.ave81.com/jing/greg-jewell/2023-01-24_08-55-54.png)](https://www.screencast.com/t/OrlluXTPrlP "Video Title")
 
@@ -39,7 +39,7 @@ None
 
 If you have any questions you can contact me at:
 
-GitHub: @gdjewell
+GitHub: @gdjewell\
 Email: gdjewell@gmail.com
 
 

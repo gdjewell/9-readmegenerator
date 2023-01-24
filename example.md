@@ -1,11 +1,11 @@
 
 
-  # Project 1
+  # readme generator
 
 
   ## Description
 
-  This is a great project
+  This is a quick readme generator
 
   ## Table of Contents
 
@@ -17,10 +17,10 @@
   # [Questions](#Questions)
 
   ## Installation
-  Test
+  1. run it
 
   ## Usage
-  None
+  1. test
 
   ## License
   None
@@ -36,4 +36,4 @@
   If you have any questions please contact me through the methods here:
 
   GitHub: @gdjewell
-  Email: gdjewell@gmail.com
+  Email: gdjewel@gmail.com

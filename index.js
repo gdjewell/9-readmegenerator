@@ -113,8 +113,8 @@ const questions = () => {
     return createReadMe(answers);  //returns the answers user gave
 }) 
   .then(data => {
-   // console.log(data)
-    return writeFile(data);
+   console.log(data)
+    return writeFile(data);   //runs function to write file
 })
 }
 

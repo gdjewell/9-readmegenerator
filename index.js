@@ -5,13 +5,16 @@ const createReadMe = require('./utils/generateMarkdown.js');
 // TODO: Create an array of questions for user input
 const questions = () => {
   
+
+  // These questions will be prompted in the terminal 
+
   return inquirer.prompt([
     {
       type: 'input',
       name: 'name',
       message: 'Enter your GitHub username.',
 
-      validate: name => {
+      validate: name => {    // This requires that the user enters something for this field
         if (name) {
           return true
         }
@@ -63,10 +66,10 @@ const questions = () => {
       }
     },
     {
-      type: 'list',
+      type: 'list',  // List is used if there are multiple options where you want user to select one option. 
       name: 'license',
       message: 'Enter a license for your project.',
-      choices: ['MIT', 'Apache'],
+      choices: ['MIT', 'Apache', 'None'],
     
     },
     {
@@ -108,7 +111,7 @@ const questions = () => {
   .then((answers) => {
     console.log(answers)
     return createReadMe(answers);  //returns the answers user gave
-})
+}) 
   .then(data => {
    // console.log(data)
     return writeFile(data);
@@ -117,7 +120,7 @@ const questions = () => {
 
 // TODO: Create a function to write README file
 const writeFile = data => {
-  fs.writeFile('readme.md', data, error => {
+  fs.writeFile('example.md', data, error => {
     if (error) {
       console.error(error);
     }

@@ -11,10 +11,13 @@ function renderLicenseBadge(data) {
     const licenseBadge = '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)'
     return licenseBadge
   }
-  else {
+  else  if (data.license == "Apache") {
     const licenseBadge = "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
     return licenseBadge
-   
+  }
+  else {
+    const licenseBadge = ""
+    return licenseBadge
   }
   
 }
@@ -60,13 +63,13 @@ function generateMarkdown(data) {
   ${data.license}
   ${renderLicenseBadge(data)}
 
-  ##Contributing
+  ## Contributing
   ${data.contributing}
 
-  ##Tests
+  ## Tests
   ${data.tests}
 
-  ##Questions
+  ## Questions
   If you have any questions please contact me through the methods here:
 
   GitHub: @${data.name}

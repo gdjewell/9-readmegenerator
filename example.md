@@ -1,11 +1,11 @@
 
 
-  # Test
+  # Project 1
 
 
   ## Description
 
-  This is a readme generator
+  This is a great project
 
   ## Table of Contents
 
@@ -17,23 +17,23 @@
   # [Questions](#Questions)
 
   ## Installation
-  
+  Test
 
   ## Usage
-  1. type in node index.js
+  None
 
   ## License
-  MIT
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  None
+  
 
-  ##Contributing
+  ## Contributing
   Myself
 
-  ##Tests
+  ## Tests
   none
 
-  ##Questions
+  ## Questions
   If you have any questions please contact me through the methods here:
 
-  GitHub: @gdjewel
-  Email: greg@test.com
+  GitHub: @gdjewell
+  Email: gdjewell@gmail.com

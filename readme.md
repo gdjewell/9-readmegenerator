@@ -8,10 +8,10 @@ GitHub Repo:
 
 ## Table of Contents
 
-  # [Installation](#Installation)
-  # [Usage](#Usage)
-  # [License](#License)
-  # [Questions](#Questions)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [License](#License)
+  * [Questions](#Questions)
 
 
 ## Installation

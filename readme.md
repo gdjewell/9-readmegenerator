@@ -8,10 +8,10 @@ GitHub Repo:
 
 ## Table of Contents
 
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [License](#License)
-  * [Questions](#Questions)
+  * [Installation](#nstallation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Questions](#questions)
 
 
 ## Installation
@@ -39,8 +39,8 @@ None
 
 If you have any questions you can contact me at:
 
-GitHub: @gdjewell\
-Email: gdjewell@gmail.com
+GitHub: [@gdjewell](https://github.com/gdjewell)
+Email: [gdjewell@gmail.com](mailto:gdjewell@gmail.com)
 
 
 

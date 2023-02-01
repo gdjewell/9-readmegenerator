@@ -8,7 +8,7 @@ GitHub Repo:
 
 ## Table of Contents
 
-  * [Installation](#nstallation)
+  * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Questions](#questions)
